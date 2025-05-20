@@ -1,3 +1,4 @@
+//добавлен комментарий для лабораторной работы
 #include <iostream>
 #include <string>
 #include <io.h>      // _setmode
